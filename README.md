@@ -17,3 +17,13 @@ quality of life for people living with Parkinson's. Research in this field is im
 
 ![image](https://github.com/Venkat750-maker/Multi-Disease-Prediction/assets/143526690/f06e50fe-f251-4506-9fc5-188d8b5f2bcc)
 
+# Software Used:
+Python
+Machine Learning Libraries
+Scikit-learn: For building machine learning models.
+TensorFlow or PyTorch: For developing deep learning models if needed.
+Keras: High-level neural networks API that can work on top of TensorFlow or other backend engines.
+Streamlit: For building the user interface of the application. Streamlit is a popular Python library for creating web applications for machine learning and data science projects.
+Pandas: For data manipulation and analysis.
+NumPy: For numerical computations.
+Matplotlib or Seaborn: For data visualization.
